@@ -1,0 +1,6 @@
+- Hi, I’m @ZyronLopez
+- I’m interested in nature and music...
+- I’m currently learning basic codes (C#)...
+
+
+
